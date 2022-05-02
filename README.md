@@ -1,3 +1,6 @@
+<img width="697" alt="cap 1" src="https://user-images.githubusercontent.com/75598588/166192058-65f1cf1e-2acd-4abc-9422-570dde8e862a.PNG">
+<img width="1007" alt="cap2" src="https://user-images.githubusercontent.com/75598588/166192061-10844519-c81c-4952-a026-34a3c51dfc8c.PNG">
+![cap3](https://user-images.githubusercontent.com/75598588/166192065-87ef5ae1-7de0-40fa-818a-3730185c089b.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
